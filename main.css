@@ -31,13 +31,28 @@
     border-radius: 10px;
 }
 
-.underimg{
-    /* image 1 */
-width: 328px;
-height: 246px;
-left: 467px;
-top: 155px;
+.workinfo{
+font-family: 'JetBrains Mono';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 31px;
+/* or 129% */
 
-background: url(image.png);
+color: #000000;
+
+
+}
+
+.workinfo2{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 48px;
+line-height: 43px;
+/* identical to box height, or 90% */
+
+color: #000000;
+
 
 }
