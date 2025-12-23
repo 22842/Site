@@ -1,7 +1,43 @@
 .main{
-    background: ;
+    background: url(../../../Pictures/photo_2025-12-12_13-12-21.jpg);
 }
 
 .center {
     text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.info {
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    background-color: #f9f9f9;
+}
+
+.underline {
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    background-color: #f9f9f9;
+    text-align: center;
+}
+
+.recomend{
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.underimg{
+    /* image 1 */
+width: 328px;
+height: 246px;
+left: 467px;
+top: 155px;
+
+background: url(image.png);
+
 }
