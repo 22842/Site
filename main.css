@@ -1,34 +1,44 @@
 .main{
-    background: url(../../../Pictures/photo_2025-12-12_13-12-21.jpg);
+    background: url(img/main.png);
+    background-repeat: no-repeat;
 }
 
 .center {
     text-align: center;
-    margin-top: 20px;
-    margin-bottom: 20px;
+    margin-top: 350px;
+    font-size: 48px;
+    background-color: black;
+    color: white;
+    -webkit-text-stroke: 2px black;
+
+    
+    background-image: linear-gradient(to right, #f3ec78, #af4261);
+
+  background-clip: text;
+  -webkit-background-clip: text; /* For cross-browser compatibility */
+
+  color: transparent;
+  -webkit-text-fill-color: transparent;
 }
 
 .info {
     margin: 20px;
     padding: 20px;
-    border: 2px solid #ccc;
-    border-radius: 10px;
-    background-color: #f9f9f9;
+    
+    margin-top: 500px;
 }
 
 .underline {
     margin: 20px;
     padding: 20px;
-    border: 2px solid #ccc;
-    border-radius: 10px;
-    background-color: #f9f9f9;
     text-align: center;
 }
 
 .recomend{
-    margin: 20px;
-    padding: 20px;
-    border-radius: 10px;
+    color: #000000;
+    text-align: center;
+    background: #ccc;
+    padding: 10px;
 }
 
 .workinfo{
@@ -53,6 +63,19 @@ line-height: 43px;
 /* identical to box height, or 90% */
 
 color: #000000;
+}
 
+.center1{
+    background-image: linear-gradient(to right, #f3ec78, #af4261);
 
+  background-clip: text;
+  -webkit-background-clip: text; /* For cross-browser compatibility */
+
+  color: transparent;
+  -webkit-text-fill-color: transparent;
+  font-size: 72px;
+}
+
+.clothes{
+    
 }
