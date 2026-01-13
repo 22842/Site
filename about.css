@@ -92,8 +92,10 @@
 }
 
 .navigation-info{
-    margin-top: 40px;
-    font-size: 18px;
+    display:flex;
+    align-items: center;
+    padding-inline: 50px;
+    gap: 20px;
 }
 
 .gallery {
@@ -104,9 +106,9 @@
 }
 
 .gallery img {
-    height: 180px;
+    height: 270px;
     cursor: pointer;
-    transition: transform 0.3s;
+    transition: transform 0.3s; 
     border-radius: 6px;
 }
 
