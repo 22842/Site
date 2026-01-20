@@ -1,7 +1,13 @@
-.form-contact1{
-    background-color: #D3D3D3;
-    padding: 20px;
-    border-radius: 10px;
-    width: 80%;
-    margin: 0 auto;
+.form-contact1 {
+  background-color: #d3d3d3;
+  padding: 20px;
+  border-radius: 10px;
+  width: 80%;
+  margin: 0 auto;
+}
+
+.contact-info1 {
+  img {
+    width: 100%;
+  }
 }
