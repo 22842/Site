@@ -88,19 +88,6 @@ p{
     font-size: 25px;}
 }
 
-.button1{
-    background: #000000;
-    border-radius: 10px;
-    color: #FFFFFF;
-    padding: 10px 20px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    margin: 10px 2px;
-    cursor: pointer;
-}
-
 .clothes img{
     width: 90%;
     border-radius: 1000px;
