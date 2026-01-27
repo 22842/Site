@@ -10,12 +10,14 @@ images.forEach(img => {
     });
 });
 
+if(close){
 close.addEventListener('click', () => {
     modal.style.display = 'none';
-});
-
+});}
+if(modal){
 modal.addEventListener('click', (e) => {
     if (e.target === modal) {
         modal.style.display = 'none';
     }
-});
+});}
+
