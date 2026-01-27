@@ -106,3 +106,11 @@ p{
     margin: 20px 4px;
     cursor: pointer;
 }
+.index-img{
+    background: url(img/img-general1.png);
+    width:100%;
+    height:675px;
+    background-size:cover;
+    background-position:center center;
+    background-attachment:fixed;
+}
